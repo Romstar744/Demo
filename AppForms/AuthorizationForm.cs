@@ -22,6 +22,11 @@ namespace GreatBritain.AppForms
             InitializeComponent();
         }
        
+        /// <summary>
+        /// PKGH
+        /// ХУЙЙЙЙЙЙ
+        /// 
+        /// </summary>
         public static SportDb context = new SportDb();
         public static User CurrentUser { get; private set; }
         private void saveAttentionBackground_Click(object sender, EventArgs e)
